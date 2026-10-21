@@ -1,0 +1,17 @@
+{
+  "state_code": "OK",
+  "state_name": "Oklahoma",
+  "agency_name": "Oklahoma Human Services (OKDHS)",
+  "snap_program_name": "Supplemental Nutrition Assistance Program (SNAP)",
+  "portal_url": "https://www.okdhslive.org/",
+  "portal_name": "OKDHSLive!",
+  "main_phone": "405-522-5050",
+  "work_requirements_notes": "ABAWDs generally must average 20 hours per week (80 hours per month) of work, work program, or qualifying volunteer/in-kind activity.",
+  "related_programs": [
+    {"id": "tanf", "name": "TANF", "url": "https://oklahoma.gov/okdhs/services/tanf.html"},
+    {"id": "liheap", "name": "LIHEAP", "url": "https://oklahoma.gov/okdhs/services/liheap.html"},
+    {"id": "ssi", "name": "SSI / Social Security", "url": "https://www.ssa.gov/"},
+    {"id": "lifeline", "name": "Lifeline / ACP", "url": "https://www.lifelinesupport.org/"},
+    {"id": "amazon_prime", "name": "Amazon Prime Discount", "url": "https://www.amazon.com/b?node=21226066011"}
+  ]
+}
